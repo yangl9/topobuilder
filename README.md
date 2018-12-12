@@ -1,6 +1,17 @@
 # topobuilder
 a py script which helps build topology file for LAMMPS from *.pdb (currently only available for CHARMM-gen ff)
 
+The example shows how to build the topology file of a molecule with a 6-member ring, a 5-member ring, and a chain with a certain length.
+Most of the force field parameters can be found in the par* file by searching ff of atoms specified previously in atom.ff. But there are
+some missing, e.g. the bond connecting the 6-member ring and the 5-member ring (CG2R51-CG2R67). In this case we use CG2R67-CG2R67 instead,
+assuming the parameters of CG2R67-CG2R67 whould be similar to that of CG2R51-CG2R67 bond. 
+
+Further, angles will be built in the same way. If some information is missing, we enter it manually. The entered information of the missing
+bonds will also be used when searching for force field parameters of angles, and that of the missing angles will be used when searching for 
+force field parameters of dihedrals.
+
+Sorry that the pair and improper sections do not work correctly at present. 
+
 HOW TO RUN:
 
  USE ipython topobuilder_CHARMM-gen.py *.pdb
