@@ -65,5 +65,7 @@ e.g. unfound dihedral  8 , atomff_type: CG321  CG321  NG2R51 NG2R50  , atoms num
 Step4  # Now you are searching ff of: impropers
 
 e.g. unfound improper  1 , atomff_type: CG321  NG2R51 NG2R50 CG2R51  , atoms number: 5 1 2 22
- Writing to guest2.top ... 
- Done! But you need to further enter the lost info of dihedrals and impropers.
+
+Writing to guest2.top ... 
+ 
+Done! But you need to further enter the lost info of dihedrals and impropers.
