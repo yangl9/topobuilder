@@ -1,0 +1,34 @@
+1  NG2R51  0.28 
+2  NG2R50 -0.37 ?
+3  CG331     12.01100 ! aliphatic C for methyl group (-CH3
+4  CG2R51  0.25 ?
+5  CG321   0.11
+6  CG321   0.11
+7  CG321   0.11
+8  CG321   0.11
+9  NG2R50 -0.41
+10 CG1N1    0.36
+11 NG1T1   -0.46
+12 CG2R61    12.01100 ! 6-mem aromatic C
+13 CG2R61    12.01100 ! 6-mem aromatic C
+14 CG2R61    12.01100 ! 6-mem aromatic C
+15 CG2R67    12.01100 ! 6-mem aromatic carbon of biphen
+16 CG2R61    12.01100 ! 6-mem aromatic C
+17 CG2R61    12.01100 ! 6-mem aromatic C
+18  HGR61      1.00800 H ! aromatic H
+19  HGR61      1.00800 H ! aromatic H
+20  HGR61      1.00800 H ! aromatic H
+21  HGR61      1.00800 H ! aromatic H
+22 CG2R51 -0.35 ?
+23  HGR52   0.20 
+24  HGA2       1.00800 H ! aliphatic proton, CH2
+25  HGA2       1.00800 H ! aliphatic proton, CH2
+26  HGA2       1.00800 H ! aliphatic proton, CH2
+27  HGA2       1.00800 H ! aliphatic proton, CH2
+28  HGA2       1.00800 H ! aliphatic proton, CH2
+29  HGA2       1.00800 H ! aliphatic proton, CH2
+30  HGA2       1.00800 H ! aliphatic proton, CH2
+31  HGA2       1.00800 H ! aliphatic proton, CH2
+32  HGA3       1.00800 H ! alphatic proton, CH3 
+33  HGA3       1.00800 H ! alphatic proton, CH3
+34  HGA3       1.00800 H ! alphatic proton, CH3
