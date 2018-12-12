@@ -7,4 +7,7 @@ Further, angles will be built in the same way. If some information is missing, w
 bonds will also be used when searching for force field parameters of angles, and that of the missing angles will be used when searching for 
 force field parameters of dihedrals.
 
+The missing information are already in the "input" file, so in this example you do not have to type them in by yourself when excuting the 
+command.
+
 Sorry that the pair and improper sections do not work correctly at present. 
