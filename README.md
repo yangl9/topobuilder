@@ -24,9 +24,9 @@ HOW TO RUN:
  
  You need to build the atom.ff file by your own first, which contains
  
-  column 1          column 2
+  column 1,          column 2
   
-  atom number       ff type e.g. CG321
+  atom number,       ff type e.g. CG321
   
  the sequence of which should be the same as *.pdb.
  
