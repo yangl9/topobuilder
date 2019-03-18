@@ -399,7 +399,7 @@ for k in range(ca):
 								elif sr2 != "" and re.search(sr2, ffinfo[lnff]):
 									so = ffinfo[lnff] + "                   ??? SATISFIED ??? "
 				fo6.append(cd)
-				fo6[cd] = str(cd+1) + ' ' + str(cd+1) + ' ' + str(d1) + ' ' + str(l[k][0]) + ' ' + str(l[k][1]) + ' ' + str(l[k][2]) + '\n'
+				fo6[cd] = str(cd+1) + ' ' + str(cd+1) + ' ' + str(l[k][0]) + ' ' + str(l[k][1]) + ' ' + str(l[k][2]) + ' ' + str(d4) + '\n'
 				fo7.append(str(cd+1)+'\n')
 				if so != '':
 					lso = so.strip().split()
